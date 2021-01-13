@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.g24.main"},{"l":"com.g24.main.input"},{"l":"com.g24.main.product"},{"l":"com.g24.main.statistic"},{"l":"com.g24.main.user"},{"l":"com.g24.main.writeToFile"}];updateSearchResults();
